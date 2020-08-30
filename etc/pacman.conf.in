@@ -25,6 +25,7 @@ Architecture = auto
 #IgnorePkg   =
 #IgnoreGroup =
 
+#AssumeInstalled =
 #NoUpgrade   =
 #NoExtract   =
 
